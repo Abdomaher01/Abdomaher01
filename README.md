@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&pause=1000&color=F70000&background=0222FF&center=true&width=435&lines=Hello+Everyone;I+am+a+Software+Developer)](https://git.io/typing-svg)
-<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&duration=4000&pause=200&color=F70000&background=0222FF&center=true&width=435&lines=Hello+Everyone;I+am+a+Software+Developer)](https://git.io/typing-svg)<!--
 **Abdomaher01/Abdomaher01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
