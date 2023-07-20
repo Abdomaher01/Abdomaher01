@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+everyone;I+am+a+backend+developer&center=true)](https://git.io/typing-svg)
 <!--
 **Abdomaher01/Abdomaher01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
