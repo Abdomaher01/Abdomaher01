@@ -1,15 +1,16 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&duration=4000&pause=200&color=F70000&background=0222FF&center=true&width=435&lines=Hello+Everyone;I+am+a+Software+Developer)](https://git.io/typing-svg)<!--
-**Abdomaher01/Abdomaher01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&duration=4000&pause=200&color=F70000&background=0222FF&center=true&width=435&lines=Hello+Everyone;I+am+a+Software+Developer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+```
+I am a Developer that enthusiastic about everything related to computers
+excited about everything related to computers, very interested in AI, and a problem-solving lover.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Simply a Computer Geek.
+```
+
+
+### Technologies
+
+<img src="https://static-00.iconduck.com/assets.00/selenium-icon-96x93-s0dkos4s.png" height="35" alt="Selenium"><img src="https://static-00.iconduck.com/assets.00/selenium-icon-96x93-s0dkos4s.png" height="35" alt="Selenium"><img src="https://static-00.iconduck.com/assets.00/selenium-icon-96x93-s0dkos4s.png" height="35" alt="Selenium"><img src="https://static-00.iconduck.com/assets.00/selenium-icon-96x93-s0dkos4s.png" height="35" alt="Selenium"><img src="https://static-00.iconduck.com/assets.00/selenium-icon-96x93-s0dkos4s.png" height="35" alt="Selenium">
+
+
