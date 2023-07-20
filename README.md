@@ -1,4 +1,4 @@
-### About Me
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&duration=4000&pause=200&color=F70000&background=0222FF&center=true&width=440&lines=Hello+Everyone;I+am+a+Software+Developer)](https://git.io/typing-svg)
 
 ```
